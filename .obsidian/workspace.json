@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game.md",
+                "file": "Three.js Game idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game"
+              "title": "Three.js Game idea"
             }
           }
         ]
@@ -166,7 +166,7 @@
   },
   "active": "66d67a4ce0e799cb",
   "lastOpenFiles": [
-    "Game.md",
+    "Three.js Game idea.md",
     "Dwinzo App.md",
     "Dwinzo Precentation video.md"
   ]
