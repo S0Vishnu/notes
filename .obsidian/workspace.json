@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "caf174ffb4b6ba5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6707cdc69440edab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d67a4ce0e799cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d719d8ca653d987",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b661d1cabb15848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda541da6d0a85fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cdeeae2825834ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "595e33168594d951",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab19a0b8c8d43336",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76f04038fecbb69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9abf341152cfaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "6daaea9146c585bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "02597e5506f13b35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c73c5535065cce74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "66d67a4ce0e799cb",
+  "lastOpenFiles": [
+    "Game.md",
+    "Dwinzo App.md",
+    "Dwinzo Precentation video.md"
+  ]
+}
