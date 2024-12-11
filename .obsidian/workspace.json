@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6707cdc69440edab",
+        "id": "5bcba654f976d122",
         "type": "tabs",
         "children": [
           {
-            "id": "66d67a4ce0e799cb",
+            "id": "66c4ca4aec07fd0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66d67a4ce0e799cb",
+  "active": "bda541da6d0a85fe",
   "lastOpenFiles": [
+    "excalidraw/art2.excalidraw",
+    "image 927.png",
+    "excalidraw/Drawing 2024-12-06 15.04.15.excalidraw.md",
+    "Pasted Image 20241211184419_001.png",
+    "Projects/Three js Game/Three.js Game idea.md",
+    "excalidraw/art.excalidraw",
+    "Projects/Three js Game/Drawing 2024-12-06 15.04.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-06 15.04.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-06 14.26.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-06 14.25.08.excalidraw.md",
+    "excalidraw/Drawing 2024-12-06 14.26.27.excalidraw.md",
+    "excalidraw/Drawing 2024-12-06 14.25.08.excalidraw.md",
     "Three.js Game idea.md",
     "Dwinzo App.md",
     "Dwinzo Precentation video.md"
