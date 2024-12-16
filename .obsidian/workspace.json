@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a299f5081188c56",
+        "id": "7ebbcae18d61c060",
         "type": "tabs",
         "children": [
           {
-            "id": "643a1cdb22ea0f20",
+            "id": "fd52978f54431aba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,17 +160,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "643a1cdb22ea0f20",
+  "active": "bda541da6d0a85fe",
   "lastOpenFiles": [
-    "Projects/ShaderForge.js/Shader Library for three.js.md",
-    "Projects/Three js Game/Three.js Game idea 2.md",
-    "Projects/Three js Game/Three.js Game idea.md",
+    "Project ideas/Tracker/Lazy Life.md",
+    "Project ideas/Tracker",
+    "Projects/smart home",
+    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "Project ideas/Three js Game/Three.js Game idea.md",
     "os docs/Inspired Projects.md",
     "os docs/webGL.md",
     "os docs/Css.md",
     "quick notes/css.md",
-    "Untitled.md",
-    "Projects/ShaderForge.js",
+    "Project ideas/ShaderForge.js",
     "quick notes",
     "excalidraw/art.excalidraw",
     "excalidraw/art2.excalidraw",
