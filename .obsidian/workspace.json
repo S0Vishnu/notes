@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6809b0fb3679e9e5",
+        "id": "9e42576cb1d73ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3c53b0f9a2f65b",
+            "id": "7bb5402d3aeb8d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os docs/Css.md",
+                "file": "os docs/create npm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Css"
-            }
-          },
-          {
-            "id": "b40d232a5348118f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas/ShaderForge.js/Shader Library for three.js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shader Library for three.js"
+              "title": "create npm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b40d232a5348118f",
+  "active": "7bb5402d3aeb8d16",
   "lastOpenFiles": [
-    "os docs/web.md",
+    "os docs/create npm.md",
+    "Untitled",
     "os docs/Css.md",
-    "os docs/webGL.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "os docs/web.md",
+    "os docs/webGL.md",
     "Project ideas/Tracker/Lazy Life.md",
     "os docs/Inspired Projects.md",
     "Project ideas/Tracker",
