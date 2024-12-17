@@ -1,3 +1,4 @@
+
 ### **.webmanifest**
 
 A `site.webmanifest` (also known simply as a Web App Manifest) is a JSON file that provides metadata about a web application. It is primarily used to enhance the experience of Progressive Web Apps (PWAs) by allowing web applications to be launched and used like native apps on devices. This file enables web apps to be added to a user's home screen, supports offline capabilities, and defines how the app should behave when opened outside the browser.
@@ -59,10 +60,11 @@ A `site.webmanifest` (also known simply as a Web App Manifest) is a JSON file th
 ### How to Use It
 
 1. **Create the `site.webmanifest` File**: Save the JSON code in a file named `site.webmanifest` or similar.
+
 2. **Link It in Your HTML**: Add a `<link>` tag in your HTML file to reference the manifest file:
-    
-    ```html
-    <link rel="manifest" href="/site.webmanifest">
-    ```
-    
+
+```html
+<link rel="manifest" href="/site.webmanifest">
+```
+
 3. **Serve It Correctly**: Ensure the file is served with the correct `Content-Type` (`application/manifest+json`).

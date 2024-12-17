@@ -46,13 +46,17 @@ plugins: [resolve(), terser()],
 external: ['three'], // Don't bundle Three.js
 };
 ```
+
 4. **Add Build Script**: Add a build script in `package.json`:
+
 ```json
 "scripts": {
 "build": "rollup -c"
 }
 ```
+
 5. **Build the Library**: Run the build command:
+
 ```bash
 npm run build
 ```
@@ -62,11 +66,13 @@ npm run build
 **Test the Library Locally**
 
 1. Link the library locally for testing:
+
 ```bash
 npm link
 ```
 
 2. In a test project, link your library:
+
 ```bash
 npm link sky-shader-material
 ```
@@ -90,14 +96,19 @@ scene.add(skyMesh);
 ### 6. **Publish to npm**
 
 1. Log in to npm:
+
 ```bash
 npm login
 ```
+
 2. Publish the library:
+
 ```bash
 npm publish
 ```
+
 3. Install your library via npm:
+
 ```bash
 npm install sky-shader-material
 ```
