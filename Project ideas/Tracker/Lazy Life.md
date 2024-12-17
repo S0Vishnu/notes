@@ -1,3 +1,4 @@
+
 ### 1. **Finance Tracking**
 
 - **User Input**:
@@ -60,18 +61,18 @@
     - Use **Vite** or **Create React App** for setting up your React project with TypeScript. Vite is faster and more modern.
     - Install necessary dependencies for React:
 ```bash
-	npx create-react-app lazy-life --template typescript 
+npx create-react-app lazy-life --template typescript 
 ```
     
 2. **Folder Structure**: Keep a clean and modular structure for reusability:
 ```scss
-	src/
-	├── components/       // UI components (Button, Card, etc.)
-	├── pages/            // Screens like Home, Finance, Health
-	├── hooks/            // Custom React hooks for shared logic
-	├── utils/            // Helper functions
-	├── types/            // TypeScript types and interfaces
-	└── App.tsx           // Main App component
+src/
+├── components/       // UI components (Button, Card, etc.)
+├── pages/            // Screens like Home, Finance, Health
+├── hooks/            // Custom React hooks for shared logic
+├── utils/            // Helper functions
+├── types/            // TypeScript types and interfaces
+└── App.tsx           // Main App component
 ```
     
 3. **Design the UI**:
@@ -85,11 +86,11 @@
     - Libraries like **Dexie.js** simplify working with IndexedDB.
     - Example:
 ```ts
-	    const saveExpense = (expense: { amount: number; category: string }) => {
-			const expenses = JSON.parse(localStorage.getItem('expenses') || '[]');
-			expenses.push(expense);
-			localStorage.setItem('expenses', JSON.stringify(expenses));
-		};
+const saveExpense = (expense: { amount: number; category: string }) => {
+	const expenses = JSON.parse(localStorage.getItem('expenses') || '[]');
+	expenses.push(expense);
+	localStorage.setItem('expenses', JSON.stringify(expenses));
+};
 ```
 
 
