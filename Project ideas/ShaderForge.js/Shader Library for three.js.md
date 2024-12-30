@@ -4,7 +4,7 @@
 - **Surface Effects:**
     - Phong shading (customizable lighting models)
     - Simple toon shading
-    - Metallic/reflection effects
+	- Metallic/reflection effects
 - **Procedural Effects:**
     - Gradient textures
     - Noise-based distortion (e.g., ripples, wavy surfaces)

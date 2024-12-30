@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f78424f9cd27409",
+        "id": "e2627d8bf3ba5959",
         "type": "tabs",
         "children": [
           {
-            "id": "497eb0c5c4aa2a78",
+            "id": "09fa28a1db2ba455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shader Library for three.js"
             }
           }
         ]
@@ -160,25 +164,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "497eb0c5c4aa2a78",
+  "active": "09fa28a1db2ba455",
   "lastOpenFiles": [
+    "os docs/Shader Docs.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
+    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples",
     "os docs/webGL.md",
     "os docs/web.md",
     "os docs/Inspired Projects.md",
     "os docs/Css.md",
     "os docs/create npm library.md",
-    "Untitled",
-    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "Project ideas/Three js Game/Three.js Game idea.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/Tracker/Lazy Life.md",
+    "excalidraw/art2.excalidraw",
+    "excalidraw/art.excalidraw",
     "Project ideas/Tracker",
     "Projects/smart home",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
-    "Project ideas/Three js Game/Three.js Game idea.md",
     "quick notes/css.md",
     "Project ideas/ShaderForge.js",
     "quick notes",
-    "excalidraw/art.excalidraw",
-    "excalidraw/art2.excalidraw",
     "os docs",
     "Pasted Image 20241211184419_001.png",
     "image 927.png",
@@ -188,9 +201,6 @@
     "Excalidraw/Drawing 2024-12-06 14.26.27.excalidraw.md",
     "Excalidraw/Drawing 2024-12-06 14.25.08.excalidraw.md",
     "excalidraw/Drawing 2024-12-06 14.26.27.excalidraw.md",
-    "excalidraw/Drawing 2024-12-06 14.25.08.excalidraw.md",
-    "Three.js Game idea.md",
-    "Dwinzo App.md",
-    "Dwinzo Precentation video.md"
+    "excalidraw/Drawing 2024-12-06 14.25.08.excalidraw.md"
   ]
 }
