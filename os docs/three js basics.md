@@ -82,7 +82,7 @@ We’ll need a place to draw, like a paper for painting. Here’s how we tell th
 
 #### Step 3: **Set Up the Scene (Our Playground)**
 
-Think of a scene as your playground where everything happens.
+Think of a scene as your playground where everything happens (main.js).
 
 ```javascript
     import * as THREE from 'three'; 
