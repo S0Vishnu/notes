@@ -165,3 +165,66 @@ Shaders are a powerful tool for creating dynamic visual effects in real-time gra
 - Shaders can be animated over time by using variables such as **time** to create **moving effects** like ripples or dynamic **displacements** like fire.
 
 By combining these techniques, you can create sophisticated, real-time visual effects that enhance the interactivity and realism of 3D graphics.
+
+
+
+# 2. **Three Shader Language (TSL)**
+
+It allows developers to create GLSL (OpenGL Shading Language) code for materials in a more modular and reusable way, avoiding the repetitive boilerplate typically associated with shader development.
+### Key Features of TSL in Three.js:
+
+1. **Modularity**:
+    
+    - Provides tools to structure shader code into reusable blocks.
+    - Helps in combining and reusing logic like lighting, transformations, and effects.
+    
+2. **Ease of Use**:
+    
+    - Simplifies the shader creation process.
+    - Abstracts low-level GLSL complexity.
+    
+3. **Integration with Three.js**:
+    
+    - Seamlessly integrates with Three.js objects and rendering pipeline.
+    - Can be used with `ShaderMaterial` and `RawShaderMaterial`.
+    
+4. **Type Safety**:
+    
+    - Ensures types are consistent across shader inputs, reducing runtime errors.
+    
+5. **Flexibility**:
+    
+    - Still allows writing custom GLSL code when needed.
+
+### Usage Example:
+
+Here is an example of a simple shader created using TSL (hypothetical, assuming you're working with a library or plugin that integrates TSL in Three.js):
+
+```javascript
+import { TSL } from 'three-tsl';
+
+const myShader = new TSL.Shader(`
+    varying vec2 vUv;
+
+    void main() {
+        vUv = uv;
+        gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+    }
+`, `
+    varying vec2 vUv;
+
+    void main() {
+        gl_FragColor = vec4(vUv, 0.5, 1.0);
+    }
+`);
+
+const material = new THREE.ShaderMaterial({
+    vertexShader: myShader.vertex,
+    fragmentShader: myShader.fragment
+});
+```
+
+### When to Use TSL:
+
+- Use TSL when you need **custom shaders** but want to avoid writing raw GLSL.
+- It's ideal for projects where shader logic is complex and requires modular design.

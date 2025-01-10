@@ -193,6 +193,7 @@ Now you can spin the ball, change its color, or even add stars! What do you thin
 1. Create another file called `main.js`.  
     This is where the real magic happens!
 2. Write this inside `main.js`:
+
     ```javascript
     import * as THREE from 'three';
     import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';

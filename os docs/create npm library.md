@@ -1,3 +1,4 @@
+
 ### **Configure the Project for npm**
 
 1. **Edit `package.json`**: Update the `main` field to point to the entry file:

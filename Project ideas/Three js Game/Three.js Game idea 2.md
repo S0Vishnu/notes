@@ -4,6 +4,7 @@
 ---
 
 **Introduction:**  
+
 In a small, desolate village, a grief-stricken craftsman mourns the loss of his only son. Haunted by his absence, the craftsman turns to forbidden lore a way to bring life to an artificial being, a golem, that could carry his son's soul. To succeed, he must gather four sacred elements from perilous and mystical locations. Each element represents a part of his son’s essence and his connection to the world.
 
 ---
