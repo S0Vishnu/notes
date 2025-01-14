@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "caf174ffb4b6ba5e",
+    "id": "03ae192a879a3fdb",
     "type": "split",
     "children": [
       {
-        "id": "cd99980ac47fcf73",
+        "id": "6dd86020c8d8b8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c66d11cb3a15afcc",
+            "id": "9d9d1b5d6503c270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas/Three js Game/Game setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Game setup"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d719d8ca653d987",
+    "id": "d5d581d5b539090d",
     "type": "split",
     "children": [
       {
-        "id": "4b661d1cabb15848",
+        "id": "5e158e5e1a57a154",
         "type": "tabs",
         "children": [
           {
-            "id": "bda541da6d0a85fe",
+            "id": "61784d83a98dab42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "cdeeae2825834ebc",
+            "id": "3534a58345817abe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "595e33168594d951",
+            "id": "a423d546e31ab635",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "ab19a0b8c8d43336",
+    "id": "62c0ccfb5495f9de",
     "type": "split",
     "children": [
       {
-        "id": "b76f04038fecbb69",
+        "id": "7bafbf30b40a83b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9abf341152cfaa",
+            "id": "24c42a4459038717",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6daaea9146c585bf",
+            "id": "6c7ef0232a7ca256",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "02597e5506f13b35",
+            "id": "b528030330b5c359",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +128,13 @@
             }
           },
           {
-            "id": "c73c5535065cce74",
+            "id": "2b7ac198db39ea81",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -154,53 +146,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bda541da6d0a85fe",
+  "active": "9d9d1b5d6503c270",
   "lastOpenFiles": [
-    "Project ideas/Three js Game/Game setup.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
     "Project ideas/Tracker/Project Doc.md",
     "Project ideas/Tracker/Lazy Life.md",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/Three js Game/Three.js Game idea.md",
-    "os docs/create npm library.md",
-    "os docs/three js basics.md",
-    "os docs/webGL.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "Project ideas/Three js Game/Game setup.md",
+    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "Project ideas/ShaderForge.js/Shader Examples",
+    "Project ideas/Tracker",
+    "Project ideas/Three js Game",
+    "Project ideas/ShaderForge.js",
+    "Project ideas",
     "os docs/webmanifest.md",
+    "os docs/webGL.md",
+    "os docs/three js basics.md",
     "os docs/Shader Docs.md",
     "os docs/links and tutorials.md",
     "os docs/Inspired Projects.md",
     "os docs/Css.md",
-    "Three js Docs.md",
-    "excalidraw/art.excalidraw",
-    "excalidraw/art2.excalidraw",
-    "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
-    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples",
-    "Project ideas/Tracker",
-    "Projects/smart home",
-    "quick notes/css.md",
-    "Project ideas/ShaderForge.js",
-    "quick notes",
+    "os docs/create npm library.md",
     "os docs",
-    "Pasted Image 20241211184419_001.png",
-    "image 927.png",
-    "excalidraw/Drawing 2024-12-06 15.04.15.excalidraw.md",
-    "Projects/Three js Game/Drawing 2024-12-06 15.04.15.excalidraw.md"
+    "excalidraw/art2.excalidraw",
+    "excalidraw/art.excalidraw",
+    "excalidraw",
+    "notes/os docs/webmanifest.md",
+    "notes/os docs/webGL.md",
+    "notes/os docs/three js basics.md",
+    "notes/os docs/Shader Docs.md",
+    "notes/os docs"
   ]
 }
