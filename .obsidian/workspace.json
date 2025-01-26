@@ -11,10 +11,12 @@
             "id": "4357f01188ef126e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/ideas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ideas"
             }
           }
         ]
@@ -156,8 +158,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4357f01188ef126e",
+  "active": "61784d83a98dab42",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-26 21.40.05.excalidraw.md",
+    "NewScene(1).png",
+    "Untitled.md",
+    "excalidraw/ideas.md",
+    "NewScene.pur",
     "Untitled.canvas",
     "Project ideas/Three js Game/Game setup.md",
     "Project ideas/Three js Game/Three.js Game idea 2.md",
@@ -189,10 +196,6 @@
     "os docs",
     "excalidraw/art2.excalidraw",
     "excalidraw/art.excalidraw",
-    "excalidraw",
-    "notes/os docs/webmanifest.md",
-    "notes/os docs/webGL.md",
-    "notes/os docs/three js basics.md",
-    "notes/os docs"
+    "excalidraw"
   ]
 }

@@ -23,4 +23,5 @@
 ## Others
 
 - [Favicon Generator](https://favicon.io/favicon-converter/)
+- https://theme-toggle.rdsx.dev/?ref=dailydev
 
