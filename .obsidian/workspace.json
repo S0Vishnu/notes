@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd86020c8d8b8a3",
+        "id": "b57d291f31307446",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9d1b5d6503c270",
+            "id": "4357f01188ef126e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,43 +146,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d9d1b5d6503c270",
+  "active": "4357f01188ef126e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Project ideas/Three js Game/Game setup.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
+    "os docs/webGL.md",
+    "os docs/webmanifest.md",
+    "os docs/three js basics.md",
+    "os docs/Shader Docs.md",
+    "os docs/links and tutorials.md",
+    "os docs/Inspired Projects.md",
+    "Project ideas/Tracker/Project Doc.md",
+    "Project ideas/Tracker/Lazy Life.md",
     "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
     "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
     "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
-    "Project ideas/Tracker/Project Doc.md",
-    "Project ideas/Tracker/Lazy Life.md",
     "Project ideas/Three js Game/Three.js Game idea.md",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
-    "Project ideas/Three js Game/Game setup.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
     "Project ideas/ShaderForge.js/Shader Examples",
     "Project ideas/Tracker",
     "Project ideas/Three js Game",
     "Project ideas/ShaderForge.js",
     "Project ideas",
-    "os docs/webmanifest.md",
-    "os docs/webGL.md",
-    "os docs/three js basics.md",
-    "os docs/Shader Docs.md",
-    "os docs/links and tutorials.md",
-    "os docs/Inspired Projects.md",
     "os docs/Css.md",
     "os docs/create npm library.md",
     "os docs",
@@ -192,7 +193,6 @@
     "notes/os docs/webmanifest.md",
     "notes/os docs/webGL.md",
     "notes/os docs/three js basics.md",
-    "notes/os docs/Shader Docs.md",
     "notes/os docs"
   ]
 }
