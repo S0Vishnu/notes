@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "03ae192a879a3fdb",
+    "id": "caf174ffb4b6ba5e",
     "type": "split",
     "children": [
       {
-        "id": "b57d291f31307446",
+        "id": "b3fc8b0da3319cda",
         "type": "tabs",
         "children": [
           {
-            "id": "4357f01188ef126e",
+            "id": "a3a566fa0cbd0496",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/ideas.md"
+                "file": "flow/Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ideas"
+              "icon": "lucide-file",
+              "title": "Flow"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5d581d5b539090d",
+    "id": "4d719d8ca653d987",
     "type": "split",
     "children": [
       {
-        "id": "5e158e5e1a57a154",
+        "id": "4b661d1cabb15848",
         "type": "tabs",
         "children": [
           {
-            "id": "61784d83a98dab42",
+            "id": "bda541da6d0a85fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +47,7 @@
             }
           },
           {
-            "id": "3534a58345817abe",
+            "id": "cdeeae2825834ebc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +64,7 @@
             }
           },
           {
-            "id": "a423d546e31ab635",
+            "id": "595e33168594d951",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "62c0ccfb5495f9de",
+    "id": "ab19a0b8c8d43336",
     "type": "split",
     "children": [
       {
-        "id": "7bafbf30b40a83b5",
+        "id": "b76f04038fecbb69",
         "type": "tabs",
         "children": [
           {
-            "id": "24c42a4459038717",
+            "id": "4f9abf341152cfaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "6c7ef0232a7ca256",
+            "id": "6daaea9146c585bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "b528030330b5c359",
+            "id": "02597e5506f13b35",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,13 +134,15 @@
             }
           },
           {
-            "id": "2b7ac198db39ea81",
+            "id": "c73c5535065cce74",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Untitled.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -148,54 +154,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61784d83a98dab42",
+  "active": "a3a566fa0cbd0496",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-26 21.40.05.excalidraw.md",
-    "NewScene(1).png",
-    "Untitled.md",
+    "flow/Flow.md",
+    "flow",
+    "excalidraw/NewScene(1).png",
     "excalidraw/ideas.md",
-    "NewScene.pur",
-    "Untitled.canvas",
-    "Project ideas/Three js Game/Game setup.md",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "excalidraw/art2.excalidraw",
+    "os docs/create npm library.md",
     "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
     "os docs/webGL.md",
-    "os docs/webmanifest.md",
     "os docs/three js basics.md",
     "os docs/Shader Docs.md",
     "os docs/links and tutorials.md",
     "os docs/Inspired Projects.md",
+    "os docs/webmanifest.md",
+    "Project ideas/ShaderForge.js/Shader Examples/ex.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
+    "os docs/Css.md",
+    "NewScene.pur",
+    "Project ideas/Three js Game/Game setup.md",
     "Project ideas/Tracker/Project Doc.md",
     "Project ideas/Tracker/Lazy Life.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "Project ideas/Three js Game/Three.js Game idea.md",
+    "Three js Docs.md",
+    "excalidraw/art.excalidraw",
     "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
-    "Project ideas/Three js Game/Three.js Game idea.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
+    "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples",
     "Project ideas/Tracker",
-    "Project ideas/Three js Game",
+    "Projects/smart home",
     "Project ideas/ShaderForge.js",
-    "Project ideas",
-    "os docs/Css.md",
-    "os docs/create npm library.md",
+    "quick notes",
     "os docs",
-    "excalidraw/art2.excalidraw",
-    "excalidraw/art.excalidraw",
-    "excalidraw"
+    "Pasted Image 20241211184419_001.png",
+    "image 927.png"
   ]
 }
