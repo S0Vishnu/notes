@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fc8b0da3319cda",
+        "id": "cc35563745701b09",
         "type": "tabs",
         "children": [
           {
-            "id": "a3a566fa0cbd0496",
+            "id": "b840da75c01510f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas/Three js Game/Three.js Game idea.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Three.js Game idea"
+              "title": "New tab"
             }
           }
         ]
@@ -165,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3a566fa0cbd0496",
+  "active": "b840da75c01510f2",
   "lastOpenFiles": [
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/Three js Game/Three.js Game idea.md",
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
     "flow/Flow.md",
     "os docs/Css.md",
