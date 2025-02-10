@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc35563745701b09",
+        "id": "b10216bb639f0a93",
         "type": "tabs",
         "children": [
           {
-            "id": "b840da75c01510f2",
+            "id": "940fabb354a136c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Project ideas/Three js Game/Tile Tumble/Game Flow.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Game Flow"
             }
           }
         ]
@@ -161,13 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda541da6d0a85fe",
+  "active": "940fabb354a136c1",
   "lastOpenFiles": [
+    "Project ideas/Three js Game/Tile Tumble/images",
+    "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
+    "Project ideas/Three js Game/Tile Tumble/Game Flow.md",
     "Untitled.md",
     "Project ideas/Three js Game/Tile Tumble/Game Play.md",
-    "Project ideas/Three js Game/Tile Tumble/Game Flow.md",
     "Project ideas/Three js Game/Tile Tumble",
-    "Pasted Image 20250208121708_080.png",
     "Project ideas/Three js Game/Three.js Game idea.md",
     "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
@@ -195,7 +198,6 @@
     "excalidraw/art.excalidraw",
     "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
     "Project ideas/ShaderForge.js/Shader Examples",
     "Project ideas/Tracker",
     "Projects/smart home",
