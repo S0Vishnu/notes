@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flow/Flow.md",
+                "file": "Project ideas/Three js Game/Three.js Game idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow"
+              "title": "Three.js Game idea"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,35 +167,35 @@
   },
   "active": "a3a566fa0cbd0496",
   "lastOpenFiles": [
+    "Project ideas/Three js Game/Three.js Game idea 2.md",
+    "Project ideas/Three js Game/Three.js Game idea.md",
+    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
     "flow/Flow.md",
-    "flow",
-    "excalidraw/NewScene(1).png",
-    "excalidraw/ideas.md",
-    "excalidraw/art2.excalidraw",
+    "os docs/Css.md",
     "os docs/create npm library.md",
-    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
+    "os docs/webmanifest.md",
     "os docs/webGL.md",
     "os docs/three js basics.md",
     "os docs/Shader Docs.md",
     "os docs/links and tutorials.md",
     "os docs/Inspired Projects.md",
-    "os docs/webmanifest.md",
+    "flow",
+    "excalidraw/NewScene(1).png",
+    "excalidraw/ideas.md",
+    "excalidraw/art2.excalidraw",
+    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
     "Project ideas/ShaderForge.js/Shader Examples/ex.md",
     "Project ideas/ShaderForge.js/Shader Examples/Water Shader.md",
-    "os docs/Css.md",
     "NewScene.pur",
     "Project ideas/Three js Game/Game setup.md",
     "Project ideas/Tracker/Project Doc.md",
     "Project ideas/Tracker/Lazy Life.md",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
-    "Project ideas/Three js Game/Three.js Game idea.md",
     "Three js Docs.md",
     "excalidraw/art.excalidraw",
     "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Perlin-style noise Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Metallic shader.md",
     "Project ideas/ShaderForge.js/Shader Examples/Fire Shader.md",
-    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
     "Project ideas/ShaderForge.js/Shader Examples/Toon Shader with outline.md",
     "Project ideas/ShaderForge.js/Shader Examples/Toon Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples",
