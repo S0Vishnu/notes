@@ -11,12 +11,14 @@
             "id": "940fabb354a136c1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Project ideas/Three js Game/Tile Tumble/Game Flow.md"
+                "file": "os docs/Inspired Projects.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Game Flow"
+              "icon": "lucide-file",
+              "title": "Inspired Projects"
             }
           }
         ]
@@ -165,24 +167,24 @@
   },
   "active": "940fabb354a136c1",
   "lastOpenFiles": [
+    "os docs/links and tutorials.md",
+    "os docs/Css.md",
+    "os docs/create npm library.md",
+    "os docs/Inspired Projects.md",
+    "Project ideas/Three js Game/Tile Tumble/Game Flow.md",
+    "Project ideas/Three js Game/Tile Tumble/Game Play.md",
     "Project ideas/Three js Game/Tile Tumble/images",
     "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
-    "Project ideas/Three js Game/Tile Tumble/Game Flow.md",
     "Untitled.md",
-    "Project ideas/Three js Game/Tile Tumble/Game Play.md",
     "Project ideas/Three js Game/Tile Tumble",
     "Project ideas/Three js Game/Three.js Game idea.md",
     "Project ideas/Three js Game/Three.js Game idea 2.md",
     "Project ideas/ShaderForge.js/Shader Library for three.js.md",
     "flow/Flow.md",
-    "os docs/Css.md",
-    "os docs/create npm library.md",
     "os docs/webmanifest.md",
     "os docs/webGL.md",
     "os docs/three js basics.md",
     "os docs/Shader Docs.md",
-    "os docs/links and tutorials.md",
-    "os docs/Inspired Projects.md",
     "flow",
     "excalidraw/NewScene(1).png",
     "excalidraw/ideas.md",
@@ -202,7 +204,6 @@
     "Project ideas/Tracker",
     "Projects/smart home",
     "Project ideas/ShaderForge.js",
-    "quick notes",
     "Pasted Image 20241211184419_001.png",
     "image 927.png"
   ]
