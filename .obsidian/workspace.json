@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os docs/Hooks.md",
+                "file": "os docs/Css.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hooks"
+              "title": "Css"
             }
           }
         ],
@@ -180,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda541da6d0a85fe",
+  "active": "990d563c7103146f",
   "lastOpenFiles": [
-    "os docs/Inspired Projects.md",
     "os docs/Hooks.md",
+    "os docs/Inspired Projects.md",
     "os docs/links and tutorials.md",
     "os docs/Css.md",
     "os docs/create npm library.md",
