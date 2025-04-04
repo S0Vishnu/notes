@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7335bddd8862b839",
+        "id": "7096e5c3a258c3db",
         "type": "tabs",
         "children": [
           {
-            "id": "8b861da703e23026",
+            "id": "67d5586c6335ad27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "env file.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "env file"
             }
           }
         ]
@@ -161,9 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda541da6d0a85fe",
+  "active": "67d5586c6335ad27",
   "lastOpenFiles": [
-    "Untitled.md",
+    "env file.md",
+    "excalidraw/NewScene(1).png",
+    "excalidraw/ideas.md",
+    "Excalidraw/Drawing 2025-03-27 13.00.15.excalidraw.md",
+    "excalidraw/Drawing 2025-03-27 13.00.15.excalidraw.md",
     "os docs/Inspired Projects.md",
     "os docs/Css.md",
     "os docs/git.md",
@@ -188,8 +196,6 @@
     "os docs/three js basics.md",
     "os docs/Shader Docs.md",
     "flow",
-    "excalidraw/NewScene(1).png",
-    "excalidraw/ideas.md",
     "excalidraw/art2.excalidraw",
     "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
     "Project ideas/ShaderForge.js/Shader Examples/ex.md",
@@ -197,10 +203,7 @@
     "NewScene.pur",
     "Project ideas/Three js Game/Game setup.md",
     "Project ideas/Tracker/Project Doc.md",
-    "Project ideas/Tracker/Lazy Life.md",
-    "Three js Docs.md",
     "excalidraw/art.excalidraw",
-    "Project ideas/ShaderForge.js/Shader Examples/Phong Shader.md",
     "Project ideas/ShaderForge.js/Shader Examples",
     "Project ideas/Tracker",
     "Projects/smart home",
