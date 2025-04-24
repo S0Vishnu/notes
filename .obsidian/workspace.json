@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9889407f900590",
+        "id": "61ffa7cdbb0cedf9",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6facd8e107c63b",
+            "id": "7dbc3368f18367ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "os docs/code quality/tabIndex.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tabIndex"
+              "title": "New tab"
             }
           }
         ]
@@ -165,11 +161,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e6facd8e107c63b",
+  "active": "bda541da6d0a85fe",
   "lastOpenFiles": [
-    "os docs/code quality/Code Quality for React(ts).md",
-    "os docs/code quality/tabIndex.md",
-    "os docs/code quality",
+    "excalidraw/art",
+    "excalidraw/art/art2.excalidraw",
+    "excalidraw/ideas.md",
+    "images/mood board for porfolio.png",
+    "images",
+    "docs/three.js/Shader basics and TSL.md",
+    "docs/three.js",
+    "docs/git & github/git.md",
+    "docs/git & github",
+    "links/webGL.md",
+    "docs/three.js/three js basics.md",
+    "links/Css.md",
+    "docs/react tips/webmanifest.md",
+    "webgl",
+    "links/tutorials.md",
+    "docs/react tips",
+    "links",
+    "links/Inspired Projects.md",
+    "docs/react tips/Hooks.md",
+    "docs/npm library",
+    "docs/code quality/tabIndex.md",
+    "docs/code quality/Code Quality for React(ts).md",
+    "docs/code quality",
     "Quality",
     "Project ideas/Tracker/Project Doc.md",
     "Project ideas/Tracker/Lazy Life.md",
@@ -179,35 +195,15 @@
     "Project ideas/Three js Game/Game setup.md",
     "Project ideas/Three js Game/Tile Tumble/Game Flow.md",
     "Project ideas/Three js Game/Tile Tumble/Game Play.md",
-    "os docs/Shader Docs.md",
-    "os docs/links and tutorials.md",
-    "os docs/Inspired Projects.md",
-    "os docs/Hooks.md",
-    "os docs/git.md",
-    "os docs/env file.md",
-    "os docs/Css.md",
-    "os docs/create npm library.md",
-    "excalidraw/NewScene(1).png",
-    "excalidraw/ideas.md",
+    "docs/react tips/env file.md",
+    "docs/npm library/create npm library.md",
     "Excalidraw/Drawing 2025-03-27 13.00.15.excalidraw.md",
     "excalidraw/Drawing 2025-03-27 13.00.15.excalidraw.md",
-    "images/Pasted image 20250321124648.png",
-    "images/Pasted image 20250321124629.png",
-    "images",
-    "images/Pasted image 20250321123610.png",
-    "Project ideas/Three js Game/Tile Tumble/images",
+    "excalidraw/images/Pasted image 20250321124648.png",
+    "excalidraw/images/Pasted image 20250321124629.png",
+    "excalidraw/images/Pasted image 20250321123610.png",
     "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
-    "Project ideas/Three js Game/Tile Tumble",
     "flow/Flow.md",
-    "os docs/webmanifest.md",
-    "os docs/webGL.md",
-    "os docs/three js basics.md",
-    "flow",
-    "excalidraw/art2.excalidraw",
-    "Project ideas/ShaderForge.js/Shader Examples/Anime style Water Shader with animation.md",
-    "NewScene.pur",
-    "excalidraw/art.excalidraw",
-    "Project ideas/ShaderForge.js/Shader Examples",
     "Pasted Image 20241211184419_001.png",
     "image 927.png"
   ]
