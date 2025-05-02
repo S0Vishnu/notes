@@ -11,10 +11,14 @@
             "id": "d08994a5c7d053ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/code quality/eslint.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "eslint"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "d08994a5c7d053ad",
   "lastOpenFiles": [
+    "docs/code quality/eslint.md",
     "docs/code quality/Code Quality for React(ts).md",
     "links/Ai.md",
     "excalidraw/art/art.excalidraw",
@@ -203,7 +208,6 @@
     "excalidraw/images/Pasted image 20250321124629.png",
     "excalidraw/images/Pasted image 20250321123610.png",
     "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
-    "flow/Flow.md",
     "Pasted Image 20241211184419_001.png",
     "image 927.png"
   ]
