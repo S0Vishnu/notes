@@ -11,3 +11,10 @@ inset: 0;
 -webkit-mask-image: linear-gradient(#000, #000 30%, #0000);
 mask-image: linear-gradient(#000, #000 30%, #0000);
 
+---
+# invert bg
+
+  isolation: isolate;
+  mix-blend-mode: difference;
+  or
+  mix-blend-mode: exclusion;
