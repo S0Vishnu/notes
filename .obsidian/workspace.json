@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1961218a8d912c3",
+        "id": "9a3ca2c8cf74102f",
         "type": "tabs",
         "children": [
           {
-            "id": "67be954bf703bf8b",
+            "id": "034bd24915b30cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/react tips/webmanifest.md",
+                "file": "Website Indexed on Google & Rank Locally.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "webmanifest"
+              "title": "Website Indexed on Google & Rank Locally"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,8 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67be954bf703bf8b",
+  "active": "034bd24915b30cbf",
   "lastOpenFiles": [
+    "Website Indexed on Google & Rank Locally.md",
+    "Untitled",
+    "links/tutorials.md",
+    "links/Inspired Projects.md",
+    "links/DB.md",
+    "links/Css.md",
+    "links/Ai.md",
+    "images/mood board for porfolio.png",
+    "flow/Flow.md",
+    "excalidraw/ideas.md",
+    "excalidraw/images/Pasted image 20250321123610.png",
+    "docs/web-dev/URL.md",
+    "docs/web-dev/Screen Size.md",
+    "docs/three.js/three js basics.md",
+    "docs/three.js/Shader basics and TSL.md",
+    "docs/react tips/webmanifest.md",
     "docs/react tips/Hooks.md",
     "docs/react tips/env file.md",
     "docs/npm library/create npm library.md",
@@ -176,16 +193,6 @@
     "docs/code quality/Code Quality for React(ts).md",
     "rough_notes/CSS.md",
     "links/webGL.md",
-    "links/tutorials.md",
-    "links/Inspired Projects.md",
-    "links/DB.md",
-    "links/Css.md",
-    "links/Ai.md",
-    "images/mood board for porfolio.png",
-    "flow/Flow.md",
-    "docs/web-dev/Screen Size.md",
-    "docs/web-dev/URL.md",
-    "docs/react tips/webmanifest.md",
     "rough_notes",
     "docs/web-dev",
     "ai-generated/Doggo runner.md",
@@ -193,20 +200,13 @@
     "excalidraw/art/art.excalidraw",
     "excalidraw/art",
     "excalidraw/art/art2.excalidraw",
-    "excalidraw/ideas.md",
     "images",
-    "docs/three.js/Shader basics and TSL.md",
     "docs/three.js",
     "docs/git & github",
-    "docs/three.js/three js basics.md",
-    "webgl",
     "Project ideas/Tracker/Project Doc.md",
     "Project ideas/Tracker/Lazy Life.md",
-    "Project ideas/ShaderForge.js/Shader Library for three.js.md",
-    "Project ideas/Three js Game/Three.js Game idea 2.md",
     "excalidraw/images/Pasted image 20250321124648.png",
     "excalidraw/images/Pasted image 20250321124629.png",
-    "excalidraw/images/Pasted image 20250321123610.png",
     "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
     "Pasted Image 20241211184419_001.png",
     "image 927.png"
