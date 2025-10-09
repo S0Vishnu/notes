@@ -6,7 +6,6 @@
 - **Frontend:** React, TypeScript, Zustand (for app state)
 - **Auth:** Supabase Auth (email + OTP) or PocketBase Auth
 
-
 ### ✅ Tasks
 
 -  Email + OTP login using open-source backend.

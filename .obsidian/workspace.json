@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98dac37f0cc10fc7",
+        "id": "579d09509f044acf",
         "type": "tabs",
         "children": [
           {
-            "id": "310109d8efc63112",
+            "id": "dd00476cc27ceb4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Tech and Tasks"
             }
-          },
-          {
-            "id": "9c29725b0e9d54a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas/Game Engine/Kanban roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kanban roadmap"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +166,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c29725b0e9d54a4",
+  "active": "dd00476cc27ceb4d",
   "lastOpenFiles": [
-    "Project ideas/Game Engine/Tech and Tasks.md",
+    "Project ideas/Game Engine/FULL-SCOPE FEATURE TREE.md",
     "Project ideas/Game Engine/Kanban roadmap.md",
+    "Untitled.md",
+    "Project ideas/Game Engine/Tech and Tasks.md",
     "Project ideas/Game Engine",
     "example_files/RootLayout.tsx.md",
     "example_files",
@@ -211,10 +198,8 @@
     "docs/code quality/eslint.md",
     "docs/code quality/Code Quality for React(ts).md",
     "rough_notes/CSS.md",
-    "links/webGL.md",
     "rough_notes",
     "docs/web-dev",
-    "ai-generated/Doggo runner.md",
     "ai-generated",
     "excalidraw/art/art.excalidraw",
     "excalidraw/art",
