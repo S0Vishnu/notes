@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project ideas/Game Engine/Tech and Tasks.md",
+                "file": "Project ideas/Game Engine/Tech and Base Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech and Tasks"
+              "title": "Tech and Base Tasks"
             }
           }
         ]
@@ -171,7 +171,7 @@
     "Project ideas/Game Engine/FULL-SCOPE FEATURE TREE.md",
     "Project ideas/Game Engine/Kanban roadmap.md",
     "Untitled.md",
-    "Project ideas/Game Engine/Tech and Tasks.md",
+    "Project ideas/Game Engine/Tech and Base Tasks.md",
     "Project ideas/Game Engine",
     "example_files/RootLayout.tsx.md",
     "example_files",
