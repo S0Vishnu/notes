@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "579d09509f044acf",
+        "id": "81409c466f60f995",
         "type": "tabs",
         "children": [
           {
-            "id": "dd00476cc27ceb4d",
+            "id": "5e0694d095ede243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project ideas/Game Engine/Tech and Base Tasks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tech and Base Tasks"
+              "title": "New tab"
             }
           }
         ]
@@ -166,11 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd00476cc27ceb4d",
+  "active": "bda541da6d0a85fe",
   "lastOpenFiles": [
-    "Project ideas/Game Engine/FULL-SCOPE FEATURE TREE.md",
+    "API Caching.md",
     "Project ideas/Game Engine/Kanban roadmap.md",
-    "Untitled.md",
+    "Project ideas/Game Engine/FULL-SCOPE FEATURE TREE.md",
     "Project ideas/Game Engine/Tech and Base Tasks.md",
     "Project ideas/Game Engine",
     "example_files/RootLayout.tsx.md",
