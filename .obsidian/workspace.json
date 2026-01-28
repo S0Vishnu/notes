@@ -166,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba9e7f40aeac6253",
+  "active": "bda541da6d0a85fe",
   "lastOpenFiles": [
+    "blender",
     "Export all in scene seperate objects.md",
     "rough_notes/ideas.md",
     "excalidraw/ideas.md",
@@ -198,7 +199,6 @@
     "docs/react tips/Hooks.md",
     "docs/react tips/env file.md",
     "docs/npm library/create npm library.md",
-    "docs/git & github/git.md",
     "rough_notes",
     "docs/web-dev",
     "ai-generated",
