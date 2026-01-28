@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7562b2a924f45a",
+        "id": "940ead5f042328bd",
         "type": "tabs",
         "children": [
           {
-            "id": "9262aa250ef11f18",
+            "id": "ba9e7f40aeac6253",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Export all in scene seperate objects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Export all in scene seperate objects"
             }
           }
         ]
@@ -162,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9262aa250ef11f18",
+  "active": "ba9e7f40aeac6253",
   "lastOpenFiles": [
+    "Export all in scene seperate objects.md",
     "rough_notes/ideas.md",
     "excalidraw/ideas.md",
     "images/mood board for porfolio.png",
@@ -194,7 +199,6 @@
     "docs/react tips/env file.md",
     "docs/npm library/create npm library.md",
     "docs/git & github/git.md",
-    "docs/code quality/tabIndex.md",
     "rough_notes",
     "docs/web-dev",
     "ai-generated",
