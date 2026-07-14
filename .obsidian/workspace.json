@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "caf174ffb4b6ba5e",
+    "id": "69aaaca9fc5773c0",
     "type": "split",
     "children": [
       {
-        "id": "940ead5f042328bd",
+        "id": "3ff81bf7cbc6a911",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9e7f40aeac6253",
+            "id": "e308b7e2f6153854",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Export all in scene seperate objects.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Export all in scene seperate objects"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d719d8ca653d987",
+    "id": "70014c49939262ad",
     "type": "split",
     "children": [
       {
-        "id": "4b661d1cabb15848",
+        "id": "a762cde5403893d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bda541da6d0a85fe",
+            "id": "494e342ff5e0be86",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "cdeeae2825834ebc",
+            "id": "20d773f1ed558a20",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "595e33168594d951",
+            "id": "cc19c909d5a35504",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "ab19a0b8c8d43336",
+    "id": "af6bc0fe7cfbb4ef",
     "type": "split",
     "children": [
       {
-        "id": "b76f04038fecbb69",
+        "id": "b6af5ef208d25b48",
         "type": "tabs",
         "children": [
           {
-            "id": "4f9abf341152cfaa",
+            "id": "d6e6dc9054d4d568",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "6daaea9146c585bf",
+            "id": "c0837b6cc762f54e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "02597e5506f13b35",
+            "id": "2e7e54f83a67efb3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "c73c5535065cce74",
+            "id": "271660203ace5b30",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -155,61 +153,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda541da6d0a85fe",
+  "active": "e308b7e2f6153854",
   "lastOpenFiles": [
-    "blender",
-    "Export all in scene seperate objects.md",
-    "rough_notes/ideas.md",
-    "excalidraw/ideas.md",
-    "images/mood board for porfolio.png",
-    "rough_notes/CSS.md",
-    "links/Ai.md",
-    "links/DB.md",
-    "links/Inspired Projects.md",
-    "links/tutorials.md",
-    "links/webGL.md",
-    "links/Css.md",
-    "flow/Flow.md",
-    "example_files/RootLayout.tsx.md",
-    "excalidraw/art/art.excalidraw",
-    "API Caching.md",
-    "Project ideas/Game Engine/Kanban roadmap.md",
-    "Project ideas/Game Engine/FULL-SCOPE FEATURE TREE.md",
-    "Project ideas/Game Engine/Tech and Base Tasks.md",
-    "Project ideas/Game Engine",
-    "example_files",
-    "docs/web-dev/Website Indexed on Google & Rank Locally.md",
-    "excalidraw/images/Pasted image 20250321123610.png",
-    "docs/web-dev/URL.md",
-    "docs/web-dev/Screen Size.md",
-    "docs/three.js/three js basics.md",
-    "docs/three.js/Shader basics and TSL.md",
-    "docs/react tips/webmanifest.md",
-    "docs/react tips/Hooks.md",
-    "docs/react tips/env file.md",
-    "docs/npm library/create npm library.md",
-    "rough_notes",
-    "docs/web-dev",
-    "ai-generated",
-    "excalidraw/art",
-    "excalidraw/art/art2.excalidraw",
-    "images",
-    "docs/three.js",
-    "excalidraw/images/Pasted image 20250321124648.png",
-    "excalidraw/images/Pasted image 20250321124629.png",
-    "Project ideas/Three js Game/Tile Tumble/images/Pasted Image 20250208121708_080.png",
-    "Pasted Image 20241211184419_001.png",
-    "image 927.png"
+    "tapermonkey_scripts/Sketchfab Model Ripper V5+.md",
+    "tapermonkey_scripts/meshy.md",
+    "tapermonkey_scripts/Sketchfab Texture Dumper V5+.md",
+    "tapermonkey_scripts"
   ]
 }
